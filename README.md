@@ -1,2 +1,2 @@
-# Ocubre1-001
+# Octubre1-001
 Repositorio Python
